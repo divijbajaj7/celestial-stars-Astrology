@@ -1,0 +1,6 @@
+{
+  "name": "Celestial Stars",
+  "description": "Predict your future and daily horoscopes with personalized cosmic insights in an atmospheric liquid-glass astrology experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
